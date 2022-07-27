@@ -12,12 +12,13 @@ html, body{
     overflow: hidden;
     background-color: rgb(146, 17, 17);
 }
+
 body{
     background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
-
 }
+
 main{
     position: relative;
     height: 100vh;
@@ -47,7 +48,6 @@ iframe#tela{
 
     width: 269px;
     height: 475px;
-    
 }
 
 section#redes-socias img{
