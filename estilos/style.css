@@ -65,3 +65,21 @@ section#redes-socias img:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.445);
     transition: 0.2s, border 0.2s;
 }
+
+ h1{
+    
+    color: white;
+    margin-top: 230px;
+    margin-right: 20px;
+    text-align: right;
+    font-size: clamp(1em, 1em + 1vw, 1em);
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+h1 a:hover{
+    text-decoration: underline;
+}
