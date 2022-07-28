@@ -10,7 +10,7 @@ html, body{
     height: 100vh;
     width: 100vw;
     overflow: hidden;
-    background-color: rgb(146, 17, 17);
+    background-color: rgb(86, 94, 15);
 }
 
 body{
@@ -39,6 +39,7 @@ section#telefone{
 
 section#redes-socias{
     text-align: right;
+    margin-top: 30px;
 }
 
 iframe#tela{
@@ -56,11 +57,11 @@ section#redes-socias img{
     margin: 10px;
     box-sizing: border-box;
     border-radius: 50%;
-    box-shadow: 2px 5px rgba(0, 0, 0, 0.26);
+    box-shadow: 2px 5px rgba(0, 0, 0, 0.377);
 }
 
 section#redes-socias img:hover{
-    border: 2px solid rgba(255, 255, 255, 0.555);
+    border: 2px solid rgba(255, 255, 255, 0.719);
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.445);
     transition: 0.2s, border 0.2s;
@@ -68,7 +69,7 @@ section#redes-socias img:hover{
 
  h1{  
     color: white;
-    margin-top: 230px;
+    margin-top: 270px;
     margin-right: 20px;
     text-align: right;
     font-size: clamp(1em, 1em + 1vw, 1em);
