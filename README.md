@@ -15,6 +15,6 @@ focado em aprimorar meus conhecimentos em Front-end e o uso de iframes
 
  - GITHUB
 
- # 💛 Contato 
+ # 💻 Contato 
 
  @icaroreis1982@gmail.com
