@@ -1,7 +1,6 @@
 # projeto redes-socias
 
-Site Criado por mim [Icaro reis](https://www.linkedin.com/in/%C3%ADcaro-reis-970a1221a/)
-focado em aprimorar meus conhecimentos em Front-end e o uso de iframes
+Landin page criada para aprimorar meus conhecimentos em Front-end e o uso de iframes
 
 ![preview](./.github/preview-social.png)
  
